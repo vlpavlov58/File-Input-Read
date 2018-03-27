@@ -1,0 +1,6 @@
+C:\Users\student\Source\Repos\IT-Cloud-Academy\ClassWork_15\ClassWork_15\bin\Debug\ClassWork_15.exe.config
+C:\Users\student\Source\Repos\IT-Cloud-Academy\ClassWork_15\ClassWork_15\bin\Debug\ClassWork_15.exe
+C:\Users\student\Source\Repos\IT-Cloud-Academy\ClassWork_15\ClassWork_15\bin\Debug\ClassWork_15.pdb
+C:\Users\student\Source\Repos\IT-Cloud-Academy\ClassWork_15\ClassWork_15\obj\Debug\ClassWork_15.csprojResolveAssemblyReference.cache
+C:\Users\student\Source\Repos\IT-Cloud-Academy\ClassWork_15\ClassWork_15\obj\Debug\ClassWork_15.exe
+C:\Users\student\Source\Repos\IT-Cloud-Academy\ClassWork_15\ClassWork_15\obj\Debug\ClassWork_15.pdb
